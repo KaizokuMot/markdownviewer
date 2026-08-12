@@ -34,11 +34,8 @@ function greet(name) {
 - [x] Render markdown
 - [ ] Add more demos
 
-[Visit Lovable](https://lovable.dev)
-
 ---
 
-Made with ☕ and react-markdown.
 `;
 
 function useIsMobile() {
